@@ -20,29 +20,28 @@ Este es un juego educativo desarrollado en **Unity** que tiene como objetivo ens
 
 ### Nivel 1: Introducción Básica
 
-![Nivel 1](![image](https://github.com/user-attachments/assets/b86018b8-7317-4b3e-9f52-d1c414bab419))  
+![image](https://github.com/user-attachments/assets/b74c44b8-eaef-463a-9c24-1abd9dfcb34c)
+
 *Imagen del Nivel 1*
 
 ---
 
 ### Nivel 2: Estructura de Página Más Compleja
 
-![Nivel 2](![![image](https://github.com/user-attachments/assets/e7e1ccb8-ee16-4c38-b9ef-b01c76074aa4)
-)  
+
 *Imagen del Nivel 2*
 
 ---
 
 ### Nivel 3: Estilos y Clases CSS
 
-![Nivel 3](![image](https://github.com/user-attachments/assets/7988bd85-d679-482b-bb28-d53366c26652))  
 *Imagen del Nivel 3*
 
 ---
 
 ### Nivel 4: Validación Avanzada
 
-![Nivel 4](![image](https://github.com/user-attachments/assets/0abd7d80-cbc7-4d44-ac65-1d2fba719735))  
+![Uploading image.png…]()
 *Imagen del Nivel 4*
 
 ---
